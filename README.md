@@ -9,6 +9,7 @@ All that yapping out of the way my goals for the year are as follows:
 - [ ] Practice Programming for at least 1 hour every day
 - [ ] Publish something at least once per month
 - [ ] Perform and commit everyday
+
 Above I have outlined my “TRIPPPLE P” plan all very general and easy goals but making sure I work on them everyday is something else. I have smaller goals below for bonus points and to keep myself from believing I have done “all I can”
 - [ ] Learn more about creating AI models and training
 - [ ] Learn more about Mesh Generation
@@ -16,6 +17,7 @@ Above I have outlined my “TRIPPPLE P” plan all very general and easy goals b
 - [ ] Become more proficient with VIM
 - [ ] Become better at performant programming in C
 - [ ] Learn Rust
+
 I am sure I will add more as the year goes on but I will be back here every so often to update the list.
 
 in order to keep myself accountable I will try to commit my learnings to github everyday. maybe its a code snippet, Journey entry, or blog post. Whatever it is I will try to commit to github so I can at the end of the year at least my green squares saying “I did it.”
