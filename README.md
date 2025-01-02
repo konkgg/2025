@@ -3,7 +3,7 @@
 
 Going into 2025 I want to commit myself to bettering myself, both in life and in ability. My mom was telling me how her and her friends were picking words to try and make a theme for the improvement. Weirdly enough I watched a video shortly after and they said a similar thing, I think the general “theme” or “goal” I am aiming towards is one mirrored by many: “discipline.”
 
-I have found the most fulfilled times in my life were times I was the most disciplined. When I first decided to try and get a internship I worked hours on my resume and portfolio before applying to a position and got said position! My issue is once I have gotten something I often falter in my discipline and become contempt.
+I have found the most fulfilled times in my life were times I was the most disciplined. When I first decided to try and get a internship I worked hours on my portfolio and resume before applying to a position and got said position! My issue is once I have gotten something I often falter in my discipline and become contempt.
 
 All that yapping out of the way my goals for the year are as follows:
 - [ ] Practice Programming for at least 1 hour every day
