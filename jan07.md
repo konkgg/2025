@@ -1,5 +1,5 @@
-#lisp
+# lisp
 wrote some basic lisp and studied autolisp
 
-#js
+# js
 watched some electron tutorials to help with work tomorrow 
